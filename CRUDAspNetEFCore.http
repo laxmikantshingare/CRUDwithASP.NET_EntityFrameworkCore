@@ -1,0 +1,6 @@
+@CRUDAspNetEFCore_HostAddress = http://localhost:5246
+
+GET {{CRUDAspNetEFCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
